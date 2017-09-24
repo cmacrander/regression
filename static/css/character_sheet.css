@@ -25,6 +25,15 @@ fieldset, td, p {
   font-family: 'Lora', serif;
 }
 
+fieldset.square {
+  height: 100px;
+}
+
+.bottom-align {
+  bottom: 0;
+  position: absolute;
+}
+
 .container fieldset {
   padding: 7px;
   border: 1px solid black;
