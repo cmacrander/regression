@@ -14,10 +14,16 @@ handlers:
   static_files: static/\1/index.html
   upload: static/.*/index.html
 
+# If it ends with a typical resource extension, serve it
+# by filename
+- url: /(css|js|images)/(.+)
+  static_files: static/\1/\2
+  upload: static/(css|js|images)/(.*)
+
 # Handle nearly every other file by just serving it.
 - url: /(.+)
-  static_files: static/\1
-  upload: static/(.*)
+  static_files: static/\1.html
+  upload: static/(.*).html
 
 
 # Recommended file skipping declaration from the GAE tutorials
