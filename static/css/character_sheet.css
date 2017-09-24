@@ -8,8 +8,14 @@
   max-width: none;
 }
 
+hr {
+  margin-top: 4em;
+  margin-bottom: 4em;
+  border-top: 2px solid rgba(0,0,0,0.3);
+}
+
 h2 {
-  margin-top: 0.5em;
+  margin: 0.5em 0;
 }
 
 small {
@@ -27,11 +33,7 @@ fieldset, td, p {
 
 fieldset.square {
   height: 100px;
-}
-
-.bottom-align {
-  bottom: 0;
-  position: absolute;
+  width: 100px;
 }
 
 .container fieldset {
