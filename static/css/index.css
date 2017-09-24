@@ -12,6 +12,7 @@ html, body {
   left: 0;
   top: 0;
   background-color: #eee;
+  z-index: 10;
 
   /* changes for large screen */
   height: 60px;
