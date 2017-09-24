@@ -1,0 +1,73 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1600px;
+  }
+}
+
+#content-container {
+  max-width: none;
+}
+
+h2 {
+  margin-top: 0.5em;
+}
+
+small {
+  font-size: 0.5em;
+}
+
+fieldset legend, .skill-label {
+  font-family: 'Catamaran', sans-serif;
+  color: #777;
+}
+
+fieldset, td, p {
+  font-family: 'Lora', serif;
+}
+
+.container fieldset {
+  padding: 7px;
+  border: 1px solid black;
+}
+
+.container legend {
+  width: auto;
+  padding: 0 5px;
+  font-size: 1em;
+  margin: 0;
+}
+
+.outline {
+  border: 1px solid black;
+  padding: 4px;
+}
+
+.skills {
+  width: 100%;
+  margin-top: 16px;
+}
+
+.skills tr {
+  height: 45px;
+}
+
+.skills td {
+  border: 1px solid #777;
+  width: 16%;
+}
+
+.skills td.skill-label {
+  border: none;
+}
+
+.skills td.starter, .stress.starter, .consequence.starter {
+  border: 2px solid black;
+}
+
+.stunts, .extras {
+  min-height: 100px;
+}
+
+.stress, .consequence {
+  border: 1px solid #777;
+}
