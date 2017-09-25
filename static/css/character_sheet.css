@@ -15,6 +15,10 @@ hr {
 }
 
 h2 {
+  margin: 2em 0 1em 0;
+}
+
+.character h2 {
   margin: 0.5em 0;
 }
 
@@ -65,6 +69,7 @@ fieldset.square {
 .skills td {
   border: 1px solid #777;
   width: 16%;
+  padding: 0 5px;
 }
 
 .skills td.skill-label {
