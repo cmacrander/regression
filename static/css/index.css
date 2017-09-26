@@ -57,7 +57,15 @@ h1 {
 
 h2, h3, h4 {
   font-weight: 400;
+}
+
+h2 {
   font-size: 1.5em;
+}
+
+h3 {
+  color: #777;
+  font-size: 1.25em;
 }
 
 p {
