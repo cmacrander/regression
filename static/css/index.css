@@ -49,6 +49,10 @@ img {
   height: auto;
 }
 
+hr {
+  border-top: 1px solid #777;
+}
+
 h1, h2, h3, h4 {
   font-family: 'Catamaran', sans-serif;
   margin-top: 1em;
@@ -77,9 +81,19 @@ p {
   font-family: 'Lora', serif;
 }
 
+div.character, div.situation {
+  border: 1px solid #777;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+
+div p:last-child {
+  margin-bottom: 0;
+}
+
 blockquote {
-  font-style: italic;
-  margin: 16px 40px;
+  color: #777;
+  margin: 16px 21px;
 }
 
 code {
