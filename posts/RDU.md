@@ -1,3 +1,48 @@
+## RDU
+
+On a plane, bound to San Antonio, on the tarmac of Raleigh-Durham International Airport, at 8:26 pm on the 6th of May, 2022. There have been delays getting the passengers on board and a long wait here in the plane and they still haven't pulled away from the terminal. Even though it's late, it's still hot, and the cabin's air conditioning can't quite keep up. Voices can be heard over the intercom.
+
+"-n't matter to me, go ahead."
+
+"Yeah, okay. Wait, why isn't this..."
+
+"You have to, hang on... why is this damn thing so confusing. Oh—", the voice switches to a whisper, "it's, it's, yeah, it's already on."
+
+Passengers look up from what they're doing, some looking at each other quizzically. Someone on the other end of the intercom clears their throat.
+
+"We apologize for the delays, folks, and we'll be getting you off to San Antonio as quickly as possible. We're just waiting on some paperwork for the plane's maintenance and then we'll be off. Should be just another few minutes."
+
+Half an hour later the plane pulls away from the gate. It taxis to the runway and aligns itself.
+
+"Attendants prepare for crosscheck."
+
+Many passengers relax their shoulders and sigh. The plane's engines spin up and the wings start to catch the air. But things feel wrong immediately and everyone either gasps or screams as the plane leaps upward. There's a sickening sideways tilt to the whole cabin and a sudden drop and everyone screams again. Phones and books crash into the ceiling and fly everywhere. The plane's nose sharply twists down again as the rear crashes into the runway. There's a rush of heat and a shimmer from the right side where a wing is dragging along the ground. With a deafening noise the plane skids to a halt half off the side of the runway.
+
+> All players Defend with both Physique and Will against the crash. Sam takes 2 shifts each of physical and mental stress, and Tabby takes 1 shift each. Both Marcus and Hal are unharmed.
+
+<!--
+SD:
+  0 Physique + 0 = 0 (Mediocre), 2 shifts to stress box #2
+  1 Will - 1 = 0 (Mediocre), 2 shifts to stress box #2
+HB:
+  1 Physique + 1 = 2, no stress
+  4 Will - 1 = 3 (Good), no stress
+MC:
+  3 Physique + 0 = 3 (Good), no stress
+  3 Will + 1 = 4 (Great), no stress
+TC:
+  1 Physique + 0 = 1 (Fair), 1 shift to stress box #1
+  1 Will + 0 = 1 (Fair), 1 shift to stress box #1
+-->
+
+
+```situation
+_Choking Black Smoke_, _Crowded with Panicked People_
+```
+
+![seating diagram](/images/737_MAX_7.png)
+
+----
 
 Marcus is one of the first on the plane to collect his wits. He quickly jumps out of his seat and rushes to the aid of the stewardess—who had been sitting by the left rear exit—attempting to open the rear escape hatch. She is having a _very_ hard time opening the hatch. She's trying to pull the red bar in towards her body (it is clearly labeled that it turns down). She knows she's supposed to be able to do this and is on the verge of losing mental control entirely.
 
@@ -33,6 +78,24 @@ Slightly embarassed but in no mood to stop to consider it, Marcus takes advantag
 
 The stewardess vertiably sails out the hatch and lands square in the middle of the slide.
 
+Marcus looks back into the cabin and at first glance...
+
+> Overcome: 0 Notice + 1 = 1 (Average) _Fails_
+
+...fails to see anyone left. Recognizing he can only see a small part of the plane he attempts to climb forward to clear the rest
+
+> Overcome: Athletics 2 - 1 = 1 (Average) _Fails_
+
+and stumbles over carry-ons and has trouble seeing in the smoke. He works his way slowly back to the emergency slide, squinting through the smoke and listening as hard as he can, but is interrupted by a flare of red light from further up the plane. His experiences with fire tell him he will be in serious trouble very soon and that he would need a SCBA to help anyone that might remain anyway.
+
+Feeling hopeful that he's done all he can in the plane, he quickly exits. Upon getting to the bottom he moves away from the plane, looking to see if anyone is in distress that might need help
+
+> Create an Advantage: 0 Notice + 2 = 2 (Fair) _Succeeds with Style_
+
+and he immediately notices the same thing that Sam just has: a crash tender is on scene but isn't jetting water or doing anything else useful.
+
+> Situation Aspect: _You're Doing it Wrong_ with 2 free invocations
+
 ----
 
 Tabby never imagined that being seated in an emergency exit row would ever bear relevance, but now the universe has seen fit to provide her with an opportunity. She gathers her wits as best she can; during the chaos she bumped heads with the man in the white shirt and tie next to her. She feels a small trickle of warm blood at her temple, but her row-mate did not fair as well: he seems to be unconscious. Tabby sees that the duty of opening the emergency hatch has now fallen to her, and she's almost excited about it. But without even looking, the heat on the right side of her face communicates the intensity of the fire burning on the wing just outside. No one is getting out that way. Her head swivels to the left and she squints through the smoke.
@@ -43,11 +106,11 @@ There are people and smoke around the port wing emergency exits, but Tabby knows
 
 Tabby steps across the aisle to get a sense of what's going on by the emergency exit, and starts to cue in to the harried conversation there. She can't get any closer than the aisle seat of that row.
 
-"...what I'm _doing_ for Chrissake"
+"&hellip;what I'm _doing_ for Chrissake"
 
-"You'll never get it that way, get your-"
+"You'll never get it that way, get your—"
 
-"Gethefuck _off_ and let me-"
+"Gethefuck _off_ and let me—"
 
 This is going nowhere, Tabby thinks.
 
@@ -61,9 +124,9 @@ Tabby sees immediately how the inflatable slide ties in and makes sure it deploy
 
 He's out cold. Tabby sets her core and attempts to carry him across the aisle to safety.
 
-> Overcome: 1 Physique + 0 + 2 _I Just Wanna Help_ = 3 (Good) _Ties_, -1 fate point, 1 shift physical stress
+> Overcome: 2 Physique + 0 + 2 _I Just Wanna Help_ = 4 (Great) _Succeeds_, -1 fate point
 
-The strength of her spirit and determination get her and the muderously heavy man to the hatch, but Tabby's back won't thank her tomorrow. One of the flight crew is at the base of the slide, signalling for her to send her burden down. Positioning him as best she can, she lets him go. His head drags along the side of the slide, but he's in no worse shape than he was, assuming he doesn't have a spinal cord injury.
+The strength of her spirit and determination get her and the muderously heavy man to the hatch. One of the flight crew is at the base of the slide, signalling for her to send her burden down. Positioning him as best she can, she lets him go. His head drags along the side of the slide, but he's in no worse shape than he was, assuming he doesn't have a spinal cord injury.
 
 Tabby steps back to look around again. A last few people rush out the hatch, but Tabby can't see anyone else. The heat in the cabin is getting very severe and sweat is running into her eyes and bandana.
 
@@ -110,7 +173,7 @@ As he's walking with the crowd, Sam takes a second to open his newly acquired bo
 
 > Create an Advantage: 2 Notice + 0 = 2 (Fair) _Succeeds_
 
-Predictably, there is a fire truck inbound, and as Sam watches, anticipating the pleasant distance of a whiskey buzz, it gets within range of the burning plane and slams on the brakes. Unpredictably, it does not begin doing anything about the fire. Sam stands passively for a moment, convinced he's wrong, but he sees the coated figures inside become more and more agitated, and realizes he has to act.
+Predictably, there is a crash tender inbound, and as Sam watches, anticipating the pleasant distance of a whiskey buzz, it gets within range of the burning plane and slams on the brakes. Unpredictably, it does not begin doing anything about the fire. Sam stands passively for a moment, convinced he's wrong, but he sees the coated figures inside become more and more agitated, and realizes he has to act.
 
 > Situation Aspect: _You're Doing it Wrong_ with 1 free invocation
 
@@ -151,3 +214,51 @@ _Just Like We Did Back In The Day_
 ```
 
 ----
+
+### _The Runway_
+
+> Unused boosts expire.
+
+> Situation Aspect: _You're Doing it Wrong_ with 3 free invocations
+
+> NPCs: Stewardess, Steward, Mr. Rayban, Old Lady, over a hundred shocked passengers, some wounded.
+
+----
+
+Marcus has just realized something is very wrong with first responders that have arrived. He's not sure there's anyone left on the plane, but is isn't sure there's not, either, so the fact that nothing is being done about the first is intolerable. The engine looks pretty different than the one's he's worked with, but he's suddenly confident he could be doing better than whoever is operating the thing.
+
+Breathing raggedly, Marcus sprints over to it, praying he can make a better impression on them than he did on the stewardess. He hoarsely shouts that he's FDNY and can help.
+
+> Overcome: 1 Rapport - 1 + 2 _You're Doing it Wrong_ + 2 _FDNY Paramedic_ = 4 (Great) _Ties_, -1 fate point
+
+"What's wrong?" Marcus shouts into the cabin of the tender from the side step.
+
+"There's something wrong with it, I think the pressure—"
+
+The other fire fighter jumps in, "The pressure's fine, look, you haven't got it set so—"
+
+"I knew the old one backwards and forwards..." with each exchange the fire fighters' pitch increases and their eyes get wider. The radio is crackling with chatter that Marcus can't make out.
+
+"Let me in so I can see what's going on," Marcus interrupts.
+
+"You can't just come in here and—"
+
+"That fucking plane—which probably still has people on it—is fucking _on fire_ and you two are standing here holding your dicks! Fuck the rules and let me help!"
+
+"Shit! Okay. See if you can do better, asshole. Mufid, call—"
+
+Marcus slides up and looks around and instantly sees conspicuous indicator lights with clear labels that stand out from the bank controls.
+
+> Overcome: 4 Lore - 2 = 2 (Fair) _Ties_
+
+His background knowledge and exposure to fire engines combined with the fact that it's practically telling him what to do enable Marcus to deploy the arm and water. However, the arm is aiming somewhat perpendicular to the tender when high-pressure water is suddenly released, which is enough to tip Marcus back out of the cabin, landing him on his ass on the runway.
+
+The fire fighters still inside seem to have caught on to what to do next and they quickly get the arm pointed in the right direction.
+
+----
+
+Sam sees the same curiously ineffective crash tender. He quickly looks at the people next to him in the crowd and singles out a tall young woman wearing a Nike t-shirt and some running shoes who looks calm despite the situation. Sam's mind goes back to his past in the corporate world where he used to be particularly good at schmoozing with higher up to get what he wants. He grabs her attention, flashes a reassuring smile and says: "Something seems wrong over there, I think they need help—come with me!"
+
+> Overcome: 2 Rapport + 1 = 3 (Good) _Succeeds with Style_ +1 boost _Love a Man Who Takes Charge_
+
+Sam and the young woman need to cover more distance than Marcus to reach the tender and they arrive in time to give him a hand up off the ground.
