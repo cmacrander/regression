@@ -243,7 +243,7 @@ The other fire fighter jumps in, "The pressure's fine, look, you haven't got it 
 
 "You can't just come in here and—"
 
-"That fucking plane—which probably still has people on it—is fucking _on fire_ and you two are standing here holding your dicks! Fuck the rules and let me help!"
+"That fucking plane—which probably still has people on it—is fucking _on fire_ and you two are standing here holding your dicks! Fucking let me help!"
 
 "Shit! Okay. See if you can do better, asshole. Mufid, call—"
 
