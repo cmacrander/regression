@@ -285,7 +285,7 @@ Hal feels like Mauve is handling the immediate sitation better than he could, so
 
 "He's right, sweetheart, let's go," and the pair set off slowly.
 
-Hal pulls his phone out of his pocket and a huge grin comes to his face when he discovers it's undamaged. He flips up twitter and starts to take a picture when he realizes he should back up a bit, too. He jogs away until he feels like he can get the whole plane in frame.
+Hal pulls his phone out of his pocket and a huge grin comes to his face when he discovers it's undamaged. He flips up twitter and starts to take a picture when the app recommends he try to get more of the burning plane in frame. "Good idea," he thinks, and jogs away a bit more.
 
 ![Hal's tweet](/images/hals_tweet.png)
 
