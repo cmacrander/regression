@@ -262,3 +262,35 @@ Sam sees the same curiously ineffective crash tender. He quickly looks at the pe
 > Overcome: 2 Rapport + 1 = 3 (Good) _Succeeds with Style_ +1 boost _Love a Man Who Takes Charge_
 
 Sam and the young woman need to cover more distance than Marcus to reach the tender and they arrive in time to give him a hand up off the ground.
+
+----
+
+Hal, seeing the old lady is all in one piece, turns to check on the girl he ushered out. She's walking away from them both, listing a bit, and still sobbing.
+
+"Hey kiddo, you alright?" he calls after her, but she doesn't respond. Just as he's shifting he weight to jog after her, the old lady puts a hand on his arm.
+
+"Be a dear and walk with me. We'll talk to her together," she says. Hal gives the her his arm. "Sweetheart, wait for us," she calls in a louder voice. The girl stops and and turns, wringing her hands. As they catch up with her, a couple jogs across their path toward the rear of the plane. Hal thinks they're heading for the fire-truck-thing that has just showed up, but his attention is focused here.
+
+"I'm Hal, good to meet you," Hal says to his companion.
+
+"Mauve, likewise," she says, patting his hand, but without taking her eyes of the girl. "You've been very brave, sweetheart. I can take care of you for now, don't you worry. We'll make some calls, have a lie down, and things will be fine before you know it."
+
+The girl stands frozen for a moment with big eyes. Then she breaks into fresh wails and throws her arms around Mauve. The old lady waves off Hal.
+
+"We'll be fine, dearie. You go on."
+
+Hal feels like Mauve is handling the immediate sitation better than he could, so we winks at her and turns to survey the destruction.
+
+"You two just help each other away from the plane, get to a safe distance."
+
+"He's right, sweetheart, let's go," and the pair set off slowly.
+
+Hal pulls his phone out of his pocket and a huge grin comes to his face when he discovers it's undamaged. He flips up twitter and starts to take a picture when he realizes he should back up a bit, too. He jogs away until he feels like he can get the whole plane in frame.
+
+![Hal's tweet](/images/hals_tweet.png)
+
+He sees that they're trying to put out the fire now, but wonders where the EMTs are. As he looks around he sees flashing lights in the distance. It's an ambulance; it will be a minute before it arrives. But something about the people nearby catches his attention. Most are wandering away down the runway, or sitting down at a healthy distance, but one man in a suit is walking along the plane toward the crash tender.
+
+> Create an Advantage: 2 Empathy + 1 = 3 (Good) _Ties_ +1 boost _He's Creeping Me Out_
+
+Something is off about the guy, Hal thinks.
