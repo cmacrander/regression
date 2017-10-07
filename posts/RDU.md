@@ -180,7 +180,7 @@ Predictably, there is a crash tender inbound, and as Sam watches, anticipating t
 What Sam _doesn't_ see as he stares at the firetruck is a man, just dismounting from the forward slide, wearing a light-colored suit, impossibly-still-in-place dark glasses, and carrying a worn dufflebag, who had been inches from garotting Sam before the assertive Steward intervened.
 
 ```character
-**The Sunglasses Assassin**
+**Mr. Rayban**
 
 Thin moustache, nice clothes, dark glasses.
 
@@ -243,7 +243,7 @@ The other fire fighter jumps in, "The pressure's fine, look, you haven't got it 
 
 "You can't just come in here and—"
 
-"That fucking plane—which probably still has people on it—is fucking _on fire_ and you two are standing here holding your dicks! Fuck the rules and let me help!"
+"That fucking plane—which probably still has people on it—is fucking _on fire_ and you two are standing here holding your dicks! Fucking let me help!"
 
 "Shit! Okay. See if you can do better, asshole. Mufid, call—"
 
