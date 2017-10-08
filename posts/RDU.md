@@ -263,6 +263,40 @@ Sam sees the same curiously ineffective crash tender. He quickly looks at the pe
 
 Sam and the young woman need to cover more distance than Marcus to reach the tender and they arrive in time to give him a hand up off the ground.
 
+"You alright there mate?""
+
+While fighting to catch the breath that just got knocked out of him, Marcus croaks, "Ow," and uses the offered assistance to stand up. "Thanks for the help. We need to back away from the plane and let them do their job."
+
+"Right," Sam agrees, "But what the hell were they waiting for? What were you doing up there?"
+
+"Well they're all over it now; best we just stay out of their way. As to why the hesitation and what I was doing, there's a big difference between training and the real thing. Sometimes you hesitate more than you'd like to think you would, even with your training. It's all a mental problem and one I'm very familiar with," Marcus holds out his hand to Sam as he introduces himself, "Marcus Cain, paramedic with the New York City Fire Department. Thanks again for helping me back on my feet."
+
+"No worries, it's the least I could do. I'm Sam, security consultant. And this is..."
+
+"Oh, I'm Karly Dandleton."
+
+"Nice to meet you Karly. So, FDNY paramedic, huh? Nice to have someone like you around, and I guess you're the expert here—anything we can do to help?"
+
+"These guys have things well in hand at the moment. If you'll excuse me, I'm going to get back to the group," Marcus nods down the runway where the flight crew has been coralling passengers. "If you want to help, come with me and look over everyone for injuries. I have a feeling a lot of people are in shock and might not be aware of the injuries they've sustained...
+
+> Create an Advantage: 1 Empathy + 0 = 1 (Average) _Fails_, no aspect revealed.
+
+...you too, sir, you should really come join the group," and with that, Marcus jogs off.
+
+Sam and Karly turn to see who Marcus was talking to: a well-dressed man wearing sunglasses. At night.
+
+> Create an Advantage: 1 Empathy + 1 + 2 _I Know Too Much About The ETA Council_ = 4 (Great) _Succeeds_, -1 fate point, reveals Mr. Rayban's aspect _Assassin For The ETA Council_
+
+Sam recognizes something oddly familiar about Mr. Rayban's demeanor, something about his steady gait and rigid posture reminds him of the crooks he's had the displeasure of working with far too often.
+
+The man in the suit smiles as he covers a last few steps toward them. The sun has set and the combination of flashing emergency lights and purple twilight is making it hard for Sam to get a good look at his face.
+
+"Miss, one of the other passengers was asking after you, said they had something you dropped."
+
+Karly pats her pockets and says, "Oh, shit, my phone! See ya, Sam," and takes off.
+
+Being experienced in deception himself, Sam recognizes the neatness with which this man had just removed Karly from the scene. Finally it strikes him with full clarity. Mr. Rayban is about to try to kill him.
+
 ----
 
 Hal, seeing the old lady is all in one piece, turns to check on the girl he ushered out. She's walking away from them both, listing a bit, and still sobbing.
@@ -287,10 +321,33 @@ Hal feels like Mauve is handling the immediate sitation better than he could, so
 
 Hal pulls his phone out of his pocket and a huge grin comes to his face when he discovers it's undamaged. He flips up twitter and starts to take a picture when the app recommends he try to get more of the burning plane in frame. "Good idea," he thinks, and jogs away a bit more.
 
-![Hal's tweet](/images/hals_tweet.png)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/AmericanAirlines?src=hash&amp;ref_src=twsrc%5Etfw">#AmericanAirlines</a> thanked me for flying today. <a href="https://t.co/GhxXaYHyqo">pic.twitter.com/GhxXaYHyqo</a></p>&mdash; Hal Bailmann (@HBailmann) <a href="https://twitter.com/HBailmann/status/916510126848094208?ref_src=twsrc%5Etfw">October 7, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 He sees that they're trying to put out the fire now, but wonders where the EMTs are. As he looks around he sees flashing lights in the distance. It's an ambulance; it will be a minute before it arrives. But something about the people nearby catches his attention. Most are wandering away down the runway, or sitting down at a healthy distance, but one man in a suit is walking along the plane toward the crash tender.
 
 > Create an Advantage: 2 Empathy + 1 = 3 (Good) _Ties_ +1 boost _He's Creeping Me Out_
 
-Something is off about the guy, Hal thinks.
+Something is off about that guy, Hal thinks.
+
+----
+
+As some of Tabby's adrenaline starts to subside, making her a little shaky as she lets herself be herded by the flight crew with the other passengers, she starts to realize just how much the burns on her neck and arms hurt. Sure would be nice to get some ibuprophen, she thinks, and looks around the ragged mass of people for an EMT or at least someone that looks like they may know what they're doing.
+
+No such luck at the moment. Really strange that there aren't all kinds of cars rushing out here, Tabby thinks, we _were_ just in a plane crash. She gets busy checking on people and generally being nice and supportive, which helps her relax.
+
+"Excuse me," a man says as he walks up to her, extending his hand to shake. "I'm an EMT, I was on the plane. Marcus."
+
+"Tabby. You're an EMT! Great, this is Lin," Tabby says, introducing the woman she's been talking to, "you should have a look at her—"
+
+"Look, no offsense, and my apologies Lin, but I can see from here she's fine. I'd like your help with something else, Tabby."
+
+"Uh, yeah, sure."
+
+"I can tell you're good with people. I need you to go around and see everyone, calmly but quickly, and look for anything that really worries you. If you find anything, stay with them until I come back or they receive medical attention. It's important."
+
+Tabby looks at Lin, who smiles and says she's fine. Tabby's a little miffed at being bossed around, but also really pleased to feel so useful and important. She also notices, through the gathering dark, that an ambulance is coming down the runway.
+
+"We shouldn't wait for them, some people might need help right away. I'll go this direction," Marcus says, pointing a thumb back over his shoulder.
+
+"Okay, Marcus," she says, cementing his name in her memory, "sure thing."
