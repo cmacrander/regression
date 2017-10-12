@@ -297,6 +297,62 @@ Karly pats her pockets and says, "Oh, shit, my phone! See ya, Sam," and takes of
 
 Being experienced in deception himself, Sam recognizes the neatness with which this man had just removed Karly from the scene. Finally it strikes him with full clarity. Mr. Rayban is about to try to kill him.
 
+> **Contest**
+
+> Sam Overcome: 4 Deceive + 3 + 2 boost _Love a Guy That Takes Charge_ = 9 (Mythical) _Succeeds with Style_, +1 boost _What A Sweetie_
+
+> Karly defends: 1 Empathy + 2 = 3 (Good) _Fails_
+
+> Sam's roll is so good I'm going to call this contest, which would normally take place over three exchanges, in just one exchange.
+
+"Karly, wait! Is this your phone?" Sam shouts. In a single fluid movement, he pulls the phone he picked up in the plane out of his pocket and dials a number.
+
+Having only taken a couple steps, Karly turns back towards Sam. "I picked it up on my way down the slide, you must've dropped it." Sam says, as he tosses it to Karly, who catches it easily.
+
+"It must be!" Karly says, without really looking at it.
+
+As soon as Karly has the phone in her hands, Sam locks eyes with Mr. Rayban and says, speaking rapidly, "I know exactly who you work for and I'd stop right there if I were you."
+
+Without breaking eye contact with Mr. Rayban, Sam continues, louder, "Karly, I need you to remain calm. If this man takes a single step towards me I want you to call the number I dialed into the phone."
+
+"What the heck is going on Sam?"
+
+"If you dial that number, the identities of the very bad people this man works for will be published for everyone to see." Sam pauses, dramatically. "We wouldn't want that now, would we?"
+
+"Acceptable risk, Mr. Dunbar," and with that, Mr. Rayban hurls the bag he's carrying at Sam's head.
+
+> **Conflict**
+
+> Mr. Rayban Create an Advantage: 3 Fight + 1 = 4 (Great) _Succeeds with Style_, creates aspect on Sam _Knocked Down_ with two free invocations
+
+> Sam Defend: 0 Fight + 1 = 1 (Average) _Fails_
+
+Sam throws his hands up as the bag comes at his face. One of the straps tangles up his hand and the weight of it puts him off balance. He can't see what Mr. Rayban is doing while he's struggling just to remain standing, but he's sure it isn't good. He trips over his own feet and falls.
+
+"I SAID NO GODDAMN LUGGAGE!"
+
+> **Conflict**
+
+> Steward Attack: 2 Fight - 1 + 2 boost _Came Out Of Nowhere_ + 2 _My Mean Older Brother Growing Up Knew Jiu-Jitsu_ = 5 (Superb) _Ties_, gains a boost _Who IS This Guy?_, -1 fate point
+
+> Mr. Rayban Defend: 3 Fight + 2 = 5 (Superb) _Ties_
+
+Sam swipes the bag off his head in time to see the extremely pissed off and in-motion Steward try to wrap his arms around Mr. Rayban and take him off his feet. Mr. Rayban twists, gets an arm under the grapple and barely manages to shrug it off. Karly screams. Sam watches, paralyzed with surprise.
+
+> Mr. Rayban Attack: 3 Fight - 1 = 2 (Fair) _Fails_
+
+> Steward Defend: 2 Fight + 1 = 3 (Good) _Succeeds_
+
+Mr. Rayban grabs the back of the Steward's shirt to pull him forward and aims a brutal knee at his face, but the Steward shakes his grip and sidesteps. Sam gets his feet set on the ground and starts to get up.
+
+> Steward Attack: 2 Fight + 2 + 2 boost _Who IS This Guy?_ = 6 (Legendary) _Succeeds_
+
+> Mr. Rayban Defend: 3 Fight + 2 = 5 (Superb) _Fails_, takes 1 stress
+
+> Sam's aspect _Knocked Down_ expires
+
+The Steward seems to leap into the arms of Mr. Rayban and wraps his legs tight around him and lands a nasty right hook on his jaw. Sam is standing—finally—and realizing he better do something.
+
 ----
 
 Hal, seeing the old lady is all in one piece, turns to check on the girl he ushered out. She's walking away from them both, listing a bit, and still sobbing.
@@ -328,7 +384,69 @@ He sees that they're trying to put out the fire now, but wonders where the EMTs 
 
 > Create an Advantage: 2 Empathy + 1 = 3 (Good) _Ties_ +1 boost _He's Creeping Me Out_
 
-Something is off about that guy, Hal thinks.
+Something is off about that guy, Hal thinks. But he's more interested in getting off this dark, hot, smokey, uncomfortable runway. He starts walking toward the main group of passengers, the direction Mauve and the girl went, with the intention of getting to a hotel as directly as possible.
+
+As he walks he dials his brother, who answers.
+
+"Hey Hal, what's up man?"
+
+"Hey Dylan. Calling to let you know I'm okay; my plane just crashed."
+
+"Uh, what the fuck? You're... okay, you just said you're okay. What do you mean, crashed?"
+
+"I'm looking at it," Hal says, turning to look over his shoulder, "and it's fucked up and on fire."
+
+"Holy shit. Holy shit!"
+
+"Yeah."
+
+"So, you slid down the inflatable slide and all that shit?"
+
+"Yup, all that shit."
+
+"Whoa. But how can you be okay? You said it's on fire? Like, it blew up?"
+
+"Kind of. It never really took off. It got going a bit but then tipped over and just one wing exploded, or something. We didn't, like, fall out of the sky."
+
+"Holy shit man, I'm seriously glad you're okay. What the fuck? Planes don't just crash."
+
+"I know, right."
+
+"So you need anything? They're going to take you back... I dunno, you can't call a lyft and be like 'I&rsquo;m standing on a runway.' I'm being an idiot, I guess just do you need anything."
+
+"No, man, thanks. They've got to send ambulances or one of those parking shuttles or something, then I'm going to get a hotel room and chill for awhile."
+
+"Okay, okay, sure. Jesus."
+
+"You okay?"
+
+"Yeah, I mean, I haven't been in a plane crash lately, so yeah, I'm good."
+
+"Seriously, Dylan. I'm fine anyway."
+
+"Sure, I'm fine. Hea's been having a tough time today, which is making life a little hard. She's been real frustrated, then she got this big rash, which made her more frustrated. I've been trying to give her space. Everyone has a bad day sometimes. Like my brother who crashes planes."
+
+"Hilarious. Okay, well, that's too bad, I hope it's nothing serious."
+
+"Nah, allergies."
+
+"Okay, well say hi to her for me. I'm going to call work and get some time off."
+
+"Sounds good. Okay man, see ya."
+
+"Bye, Dylan."
+
+Hal is now amongst the other passengers, and scene looks straight out of a television show with the ambulance's headlights pouring over part of the crowd, and the blue and red lights strobing. It doesn't look like there is anything but the one ambulance and he doesn't expect the EMTs are about to shuttle him anywhere.
+
+> Create an Advantage: 3 Notice + 0 = 3 (Good) _Succeeds with Style_, reveals aspect _That Rash Wasn't Here This Morning_ with two free invocations.
+
+As Hal is wondering how dangerous it is to just start walking across possibly active runways in order to get back to the terminal when he overhears the two uniformed EMTs working through the crowd.
+
+"Rash here too, mid torso, left side."
+
+"I feel fine. What you mean 'here too', do I have something infectious?"
+
+"If you're feeling fine then don't worry about it, sir."
 
 ----
 
@@ -351,3 +469,21 @@ Tabby looks at Lin, who smiles and says she's fine. Tabby's a little miffed at b
 "We shouldn't wait for them, some people might need help right away. I'll go this direction," Marcus says, pointing a thumb back over his shoulder.
 
 "Okay, Marcus," she says, cementing his name in her memory, "sure thing."
+
+Tabby begins greeting passengers and asking after them. The first several she talks to are distant or dazed but responsive and not visibly harmed. Then she gets to a couple, a old woman and a young girl. The woman has found a piece of luggage to sit on and the girl is leaning against her.
+
+"Hi you two, I'm Tabby. I'm checking in on everyone to make sure you're alright."
+
+The woman makes eye contact and says, "Hi Tabby, I'm Mauve, and this is Celia. Would you take a look at this please?" Tabby steps closer. "Honey let me move your shirt just a little so we can make sure you're alright." Mauve lifts the hem of Celia's shirt a few inches and Tabby, who has the light on her phone handy, sees a bright red splotch on the girl's skin.
+
+Without touching anything, Tabby asks, "Does that hurt, honey?" Celia shakes her head no. "You're sure? It doesn't itch or anything?"
+
+"No," Celia says, quietly.
+
+> Create an Advantage: 3 Empathy + 0 = 3 (Good) _Succeeds with Style_, reveals aspect _Not In Pain_ with two free invocations.
+
+"She seems alright to me, Mauve, just shaken up. Would you like me to go get someone to take a second look?"
+
+"No, no. Thank you. We'll just wait with everyone else."
+
+Tabby nods and says her farewells and continues through the crowd. The ambulance arrives with two uniformed EMTs who start examining people—much more quickly than Tabby is, she realizes—at the periphery. She's come across a dozen people at this point with some kind of splotchy rash, some on their shoulders or neck, some on their forearms and tops of their hands. None of them are upset about it and some blame it on the smoke or the stress. But she works her way toward the EMTs with the intent to share this with them.
