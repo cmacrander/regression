@@ -277,6 +277,8 @@ While fighting to catch the breath that just got knocked out of him, Marcus croa
 
 "Nice to meet you Karly. So, FDNY paramedic, huh? Nice to have someone like you around, and I guess you're the expert here—anything we can do to help?"
 
+> GM compels Marcus' aspect _Something To Prove_: Marcus must take charge of the first aid that is surely needed by the main group of passengers. +1 fate point.
+
 "These guys have things well in hand at the moment. If you'll excuse me, I'm going to get back to the group," Marcus nods down the runway where the flight crew has been coralling passengers. "If you want to help, come with me and look over everyone for injuries. I have a feeling a lot of people are in shock and might not be aware of the injuries they've sustained...
 
 > Create an Advantage: 1 Empathy + 0 = 1 (Average) _Fails_, no aspect revealed.
@@ -345,7 +347,7 @@ Sam swipes the bag off his head in time to see the extremely pissed off and in-m
 
 Mr. Rayban grabs the back of the Steward's shirt to pull him forward and aims a brutal knee at his face, but the Steward shakes his grip and sidesteps. Sam gets his feet set on the ground and starts to get up.
 
-> Steward Attack: 2 Fight + 2 + 2 boost _Who IS This Guy?_ = 6 (Legendary) _Succeeds_
+> Steward Attack: 2 Fight + 2 + 2 boost _Who IS This Guy?_ = 6 (Fantastic) _Succeeds_
 
 > Mr. Rayban Defend: 3 Fight + 2 = 5 (Superb) _Fails_, takes 1 stress
 
@@ -432,9 +434,11 @@ As he walks he dials his brother, who answers.
 
 "Okay, well say hi to her for me. I'm going to call work and get some time off."
 
-"Sounds good. Okay man, see ya."
+"Sounds good. Okay man, see ya. And take care of yourself. Don't drive yourself anywhere for awhile."
 
-"Bye, Dylan."
+"Really, I'm fine. But yeah, see ya Dylan."
+
+"Bye."
 
 Hal is now amongst the other passengers, and scene looks straight out of a television show with the ambulance's headlights pouring over part of the crowd, and the blue and red lights strobing. It doesn't look like there is anything but the one ambulance and he doesn't expect the EMTs are about to shuttle him anywhere.
 
@@ -449,6 +453,12 @@ As Hal is wondering how dangerous it is to just start walking across possibly ac
 "If you're feeling fine then don't worry about it, sir."
 
 ----
+
+```situation
+**Runway With Passengers**
+
+_Dark_, _Injured or Shocked People_
+```
 
 As some of Tabby's adrenaline starts to subside, making her a little shaky as she lets herself be herded by the flight crew with the other passengers, she starts to realize just how much the burns on her neck and arms hurt. Sure would be nice to get some ibuprophen, she thinks, and looks around the ragged mass of people for an EMT or at least someone that looks like they may know what they're doing.
 
@@ -487,3 +497,51 @@ Without touching anything, Tabby asks, "Does that hurt, honey?" Celia shakes her
 "No, no. Thank you. We'll just wait with everyone else."
 
 Tabby nods and says her farewells and continues through the crowd. The ambulance arrives with two uniformed EMTs who start examining people—much more quickly than Tabby is, she realizes—at the periphery. She's come across a dozen people at this point with some kind of splotchy rash, some on their shoulders or neck, some on their forearms and tops of their hands. None of them are upset about it and some blame it on the smoke or the stress. But she works her way toward the EMTs with the intent to share this with them.
+
+----
+
+As Marcus attends to the many wandering shocked individuals from the plane crash he too has noticed the red blotches that Tabby did. He recognizes it's unusual and atypical of a fire-related injury. It must be something tangentially related to the plane crash. Growing increasingly concerned, Marcus investigates his own body closely.
+
+> Create an Advantage: 0 Notice + 0 = 0 _Ties_, gains boost _I Seem Fine_
+
+He doesn’t see anything out of the ordinary and breathes a sigh of relief.
+Spotting the arrival of the paramedics, he rushes over to them and flashes his credentials before explaining
+
+```character
+**EMTs**
+
+Two on-duty EMTs, Naoto and Carol, with uniforms and gear, on the job and no-nonsense.
+
+_Got a Job To Do_
+```
+
+
+> Create and Advantage: 4 Lore + 1 = 5 (Superb) _Succeeds with Style_, gains aspect _I Know What I'm Talking About_ &#9744; &#9744;
+
+Marcus wastes no time negotiating pecking orders and launches into his primary concern. The EMTs recognize the command he has of the situation and look up from their patients to listen attentively.
+
+"There's a more concerning issue than just this fire here. There are red rashes on people that are not burns and appear to have all shown up since after the crash from what I can discern. Make a call to the airport—we need to know if something special was being carried on this plane. In the meantime, all of these people, myself, yourselves, and the firefighters too, need to be quarantined until we identify the malignancy of this rash. I understand clearly that I cannot make this call, so get on your radio and explain what I'm telling you to the one who can."
+
+> Overcome: 1 Rapport + 0 + 2 _I Know What I'm Talking About_ &#9745; &#9744; = 3 (Good) _Succeeds_
+
+The EMTs both nod vigorously and then shake their heads and then nod some more. However several nearby passengers overhear Marcus and visibly react to the word "quarantine."
+
+"Good call. I can radio back from the truck. But I also wanna know," Naoto lowers his voice as he realizes there's a frission in the crowd, and they are the epicenter, "who has this and who doesn't," Naoto whispers, looking to his partner, Carol.
+
+"Yeah. I haven't found anyone who _hasn't_ had it yet. But no other signs of allergic reaction," Carol says.
+
+"Well, I'm one," Marcus says.
+
+"No rash?"
+
+"None."
+
+"Okay, I guess that's encouraging. Here," Carol pulls a memo pad and a pen from her extremely well-organized bag, "take names of anyone who's rash free, and let us know immediately if you see anything remotely like anaphylaxis. The rash could just be a lead-in." Naoto nods and briskly walks back toward the ambulance.
+
+As Marcus turns to sort out which people he's going to work with next, Tabby comes up to him. She pinches his elbow, turns him away from the people closest to them, and whispers.
+
+"Have you been seeing people with a painless rash?"
+
+"Yeah. We," Marcus gestures toward Carol, who already has a blood pressure cuff on one passenger and is asking questions of another, "just talked about it. Everyone they've seen or I've seen has it. Except me."
+
+"Okay, same here. Oh, and I don't have it either," Marcus' eyebrows go up a little and he nods, "but also..."
