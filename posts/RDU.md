@@ -353,7 +353,57 @@ Mr. Rayban grabs the back of the Steward's shirt to pull him forward and aims a 
 
 > Sam's aspect _Knocked Down_ expires
 
-The Steward seems to leap into the arms of Mr. Rayban and wraps his legs tight around him and lands a nasty right hook on his jaw. Sam is standing—finally—and realizing he better do something.
+The Steward leaps at Mr. Rayban and lands a nasty right hook on his jaw. Sam is standing—finally—and realizing he better do something.
+
+He screams out and rushes into the fight, hoping to give the appearance of a threat and draw Mr. Rayban's attention away from the Steward.
+
+> Sam Create an Advantage: 4 Deceive - 1 = 3 (Good) _Fails_
+
+> Mr. Rayban Defend: 2 Empathy + 2 = 4 (Great) _Succeeds_
+
+Unfortunately, Mr. Rayban has been in for too many fights to be had by such a simple tactic and he hits Sam with a effortless blow to the shoulder, sending Sam stumbling.
+
+In the mean time, Karly, not exactly sure what the heck is going on, rushes to the crash tender and starts banging on the window and gesturing wildly.
+
+Having brushed off Sam, Mr. Rayban turns his body back towards the Steward and, in one smooth motion, sends his left foot straight at the Steward's abdomen.
+
+> Mr. Rayban Attack: 3 Fight + 0 = 3 (Good), _Fails_
+
+> Steward Defend: 2 Fight + 3 = 5 (Superb), _Success with Style_, gains boost _This Little Piggy_
+
+The Steward steps back from the kick and grabs Mr. Rayban's ankle, absorbing the blow with very little difficulty. He even looks Mr. Rayban in the eyes and grins a little.
+
+> Steward Attack: 2 Fight - 3 + 2 _This Little Piggy_ = 1 (Average) _Ties_, gains boost _Throwing You Off Your Game_.
+
+> Mr. Rayaban Defend: 3 Fight - 2 = 1 (Average) _Ties_
+
+The Steward pivots in place with the ankle in his hands, aiming to rip Mr. Rayban off his footing, but his grip fails him and Mr. Rayban twists free. Flowing with the motion, he gets his released foot on the ground and aims another kick at the Steward with this other foot.
+
+The kick never lands because Mr. Rayban, the Steward, and Sam are all suddenly forced to the ground by what feels to Sam like a combination of a sand blaster and a jackhammer.
+
+```situation
+The three combatants are _Soaking Wet_.
+```
+
+> Mr. Rayban _Concedes_, +1 fate point.
+
+It only lasts a moment, but it's enough to thoroughly disorient Sam. When the world makes sense again, one of the firefighters is leaning over him, helping him up, while talking to the still-prone Steward.
+
+"Why were you idiots fighting? Jesus, we have a burning plane to deal with. And you should know better!" he says, now helping the Steward up. "Get yourselves over to that ambulance out there, and away from the fire. Hey, were'd the other guy go?"
+
+"He and Sam were defending themselves from that psycho!" Karly yells, pointing out past the crash tender, but her expression turns quizzical as she realizes she can't actually see him, which is confusing in the huge open space of the runyway.
+
+"Ok guys, let's go," Same says, looking around suspiciously, "It'll be safer with a group." Sam looks at the Steward, "And thanks, uh&hellip;"
+
+"Ramón. You're welcome. I have a problem with bullies."
+
+"More like bullies have a problem with you."
+
+Ramón smiles. "Usually, yeah. Here's your bag, for what it's worth." Ramón hands Sam a heavy, dripping-wet duffel. "And seriously, don't go for your stuff in an evacuation, its dangerous," he says, looking Sam hard in the eye, and hanging onto the duffel for a long second as Sam takes it.
+
+"Right. Won't happen again. Scout's honor."
+
+Ramón grunts. He and Sam and Karly walk together in exhausted silence toward the ambulance.
 
 ----
 
