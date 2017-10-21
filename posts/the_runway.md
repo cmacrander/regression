@@ -348,7 +348,6 @@ Two on-duty EMTs, Naoto and Carol, with uniforms and gear, on the job and no-non
 _Got a Job To Do_
 ```
 
-
 > Create and Advantage: 4 Lore + 1 = 5 (Superb) _Succeeds with Style_, gains aspect _I Know What I'm Talking About_ &#9744; &#9744;
 
 Marcus wastes no time negotiating pecking orders and launches into his primary concern. The EMTs recognize the command he has of the situation and look up from their patients to listen attentively.
@@ -377,4 +376,190 @@ As Marcus turns to sort out which people he's going to work with next, Tabby com
 
 "Yeah. We," Marcus gestures toward Carol, who already has a blood pressure cuff on one passenger and is asking questions of another, "just talked about it. Everyone they've seen or I've seen has it. Except me."
 
-"Okay, same here. Oh, and I don't have it either," Marcus' eyebrows go up a little and he nods, "but also..."
+"Okay, same here. Oh, and I don't have it either," Marcus' eyebrows go up a little and he nods, "but also," Tabby lowers her voice but sets her eyebrows in her "serious face" as she addresses Marcus. "Don't you think you should keep your voice down about the quarantine talk? These people are already traumatized and emotional. We don't need a hysterical mob on our hands, especially since there's still not enough help out here to care for them all."
+
+Marcus frowns, clearly not enjoying the fact that Tabby has a point. He opens his mouth to rebut her but stops and shakes his head. "Look," he says, "I'm sure you're right, but the fact is we don't know what's happening here, except that it's no coincidence." He looks around the crowd and adds, "I wish we could announce to everyone that everything is fine, but it's not. There's nowhere for any of us to go, anyway; I think everyone's doing ok, considered."
+
+Tabby also looks around and doesn't see any signs of panic. "Yeah, everything considered. Who haven't you talked to yet?"
+
+Marcus points to another lobe of the crowd in the direction of the plane, and Tabby moves that way.
+
+----
+
+"So, Ramón, how does a flight attendant know how to fight so well?" Sam asks, before pulling the polo over his head.
+
+"Growing up, my brother knew jiu-jitsu, I kind of picked it up along the way I guess."
+
+"Who the hell was that man, Sam?" Karly asks.
+
+"I'm not exactly sure who _he_ was, but I have a very good hunch I know who he was working for. Over the years I've made quite a few enemies on the wrong side of the law—that comes with the job description I suppose—but I've never been attacked before."
+
+"What _is_ your job description?" Karly asked, looking like she was a little afraid of the answer.
+
+"Oh, uh," Sam rubbed the back of his neck. "Security systems, I do security systems. Like set them up for museums, companies, stuff like that."
+
+"Huh. So what was all that stuff you said about the calling the phone number?"
+
+"Oh, that was nothing. I was just trying to distract him. Are you alright, Karly?"
+
+"I'm a little unsettled by all this," she says, as she gestures to the scene around them, "but I'll be fine, all things considered."
+
+"What about you, Ramón?" Sam asked.
+
+"I've been worse. I wouldn't mind a dry change of clothes. Shouldn't there be a bus or something here by now?"
+
+"Yeah," Karly adds, "let's go check the ambulance, maybe someone'll knows something. They might even have blankets to dry yourselves off."
+
+The group walks over to the ambulance, leaving two trail of puddles behind them. When they are most of the way there, they notice a woman breaking away from the crowd and coming to meet them.
+
+Tabby looks them over with a worried but warm smile as they approach, and immediately speaks up, "Hi, how is your skin??"
+
+Ramon replies, "At the moment, wet mostly. You guys have any dry clothes in that ambulance?"
+
+"Yeah, dry clothes would be great," Sam agrees.
+
+"Wait a second," Karly says, "What was that about our skin?"
+
+"I'm helping the EMTs check everyone out. The most common injury so far is burns or scrapes," Tabby explains.
+
+Ramón, Sam, and Karly twist their arms this way and that and pat themselves a little. Sam and Karly report feeling fine, Ramón explains he picked up a scrape or two on his knuckles but is otherwise okay.
+
+"I'd like to check more thoroughly, if you don't mind," Tabby says as she gestures with her phone's light, "sometimes with all the adrenaline you can miss things." She makes light of the situation by asking their names and making comments like, "can you believe all this" and "so glad you all made it out safely" while mixing in "just pull back your sleeve there" and "how's about back here".
+
+"Ramón, you've got a nasty rash all down your back!" Karly exclaims.
+
+"You've got something similar, Karly," Tabby points out. "I didn't see anything on Sam though." She steps back and puts her hands on her hips. "Okay. So you all want some dry clothes. Come on with me and we'll see what they've got in the ambulance."
+
+The rest of the group shrug and nod and start walking.
+
+```situation
+Ambulance
+
+One EMT, Naoto, in the cab.
+
+_Radio On The Fritz_
+```
+
+"Hey, how's it going in there? We've got some people who need to dry off," Tabby says as she approaches.
+
+"Hey, yeah, yeah. Blankets and towels in the back, right side, down low, blue drawer," Naoto replies, dividing his attention from what he's doing with some effort. Sam and Ramón hop into action.
+
+"I've got some more info on who is and isn't affected," Tabby says, peering into the cab, "you need any help in there?"
+
+"Trying to hail&hellip; well, anyone. We need shuttles, cops, cleanup... the whole ERP seems to be shit at the moment, just like this radio."
+
+"ERP?"
+
+"Emergency Response Plan. Ugh, screw this thing!"
+
+A man Karly and Tabby hadn't noticed, standing bit outside the main floodlight, speaks up, "I might be able to help with the radio."
+
+They all turn as Hal takes one step forward so he can be seen more clearly. He's tall and a little soft around the edges. "I've worked with them before."
+
+"Look&hellip; oh, why the hell not. We need to get through somehow."
+
+The man nods to Karly and Tabby as he gets in the cab and Naoto switches to the passenger seat, "Ladies."
+
+> Overcome: 3 Hardware + 1 = 4 (Great) _Succeeds with Style_, gains boost _Made It Look Easy_
+
+"You just need to have this plugged in here instead of," and Hal moves the hand mic's plug into another jack, "and there ya go," he says, offering the mic to Naoto, who excitedly snaps it up.
+
+"Dispatch, Dispatch, this is 2497, come in."
+
+"2497 this is Dispatch, go ahead."
+
+"We've got all of flight 4811 standing around here on the tarmac. Where are you guys, over."
+
+"Roger, stand by on that. Any trouble with the equipment, over."
+
+"Say again, Dispatch, over," Naoto scowls in confusion as he thumbs the mic.
+
+"2497 have you had any trouble with your equipment, over."
+
+"Affirmative, the radio was some trouble, yeah, over."
+
+"Who fixed it, over."
+
+"What the&hellip;" Naoto says, without keying the talk button. He looks at Hal, who shrugs. "A passenger, over."
+
+"2497 require that you keep the passenger near the radio, over."
+
+"Roger," Naoto pauses and shakes his head a tiny bit as if to wake himself up, "&hellip;wilco. And what about the other thing? Over."
+
+"Stand by. This is wilco alpha charlie four oh, over and out."
+
+"The fuck?" Naoto sits with the mic still poised near his face. He looks at Hal again, who shrugs again.
+
+"Name's Hal," he said.
+
+"Well, thanks for fixing the radio, Hal. You have any problem hanging out in the seat there?"
+
+"No, sir."
+
+"Right." Naoto puts the mic down and picks up his bag. "Uh, Hal, how are you doing? Any injuries?"
+
+"Uh, maybe a bruise here or there. Not really."
+
+"Any rash? On your arms or under your shirt?"
+
+Hal looked at his arms, "I feel fine. You want me to lift my shirt?" Naoto nods. Hal leaned forward and pulls the back of his shirt up to his neck and twists left and right for Naoto to see.
+
+"Ok, great, looks good."
+
+Karly and Tabby, who have been leaning against the outside of the ambulance, chatting quietly, notice the radio go quiet. Karly stands up and looks into the cab. "What'd they say?" she asks.
+
+"That we have to wait longer," Naoto says, as he walks around the front of the ambulance toward them.
+
+Marcus and Carol part from the crowd, aiming for Naoto. "It's a short list," Carol says. "Marcus here. That's it."
+
+"And Tabby Charmichael, who was helping me before you guys got here," Marcus adds, as Tabby walks up from behind the ambulance with Sam and Ramón in tow, with towels and messy hair.
+
+"This guy, too," Naoto says, "Hal&hellip;"
+
+"Harold Brimhall," Hal says, "but call me Hal."
+
+"And Sam," Tabby says, quick on the inference.
+
+"What are we talking about?" Sam asks.
+
+Before anyone can answer, the radio crackles. "2497, 2497, this is wilco alpha charlie four oh, come in."
+
+"Mind?" Hal says to Naoto and Carol.
+
+"Uh—" Carol raises a hand to stop Hal, but Naoto cuts in.
+
+"It's fine Carol. Dispatch wants to talk him, hell if I know why."
+
+Hal reaches for the mic, standing half in and half out of the ambulance cab. "Dispatch this is 2497, helpful passenger speaking, go ahead," Hal says smoothly into the mic.
+
+"This is FEMA R4 Deputy Regional Administrator Sariah Kendrick, thanks for getting on. Can you confirm the EMTs have been finding a rash on all the passengers?"
+
+"Affirmative, I can put one of them on, over."
+
+"No no, I want to talk to you. What's your name?"
+
+"Hal Bailman, over."
+
+"And can you also confirm you don't have it? The rash?"
+
+"Affirmative, over."
+
+"Okay. Okay." There was a lengthy pause, and Hal wasn't sure if he should speak. "We're sending a squad car for you. I need you to follow the officer's instructions when they get there."
+
+"There are at least three others here who are unaffected, over."
+
+When Hal says this it finally occurs to Naoto and Carol to check their own bodies. They quickly find the rash on themselves as well. They look at their skin, and then at each other, and both breathe out "fuuuuuuck" simultaneously.
+
+"What was that? Repeat that. How many?"
+
+Marcus holds up four fingers.
+
+"Dispatch we have four unaffected people right here, and an unknown," Marcus makes a slicing gesture and shakes his head emphatically, "correction, we have a total of four. Everyone else has been checked out, over."
+
+"Oh my god. Okay." Another pause. "We're sending two squad cars. The four people you mentioned are to get in those cars. Is that understood?"
+
+Hal doesn't respond right away, but looks around those gathered. Sam manages to look a little green despite the flashing red lights. The rest just look very surprised.
+
+"I'm sure we'd all like to know what's going on before we do that, over."
+
+"The officers will explain when they get there. That's all, um," a quick silence, "Out. Over and out."

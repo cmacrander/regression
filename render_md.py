@@ -7,12 +7,12 @@ import optparse
 import re
 
 
-CURRENT_POST = "Rash Decisions"
+# CURRENT_POST = "Rash Decisions"
+CURRENT_POST = "The Runway"
 
 ARCHIVED_POSTS = (
     "Backstory",
     "The Plane",
-    "The Runway",
 )
 
 
