@@ -44,9 +44,19 @@
 
             <h1>Archive</h1>
 
+            <h2>Table of Contents</h2>
+
+            <ol>
+              {% for post in archived_posts %}
+              <li><a href="#{{ post.id }}">{{ post.name }}</a></li>
+              {% endfor %}
+            </ol>
+
             {% for post in archived_posts %}
 
-            {{ post }}
+            <div id="{{post.id}}" class="bookmark"></div>
+
+            {{ post.body }}
 
             {% endfor %}
 
