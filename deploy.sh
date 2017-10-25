@@ -2,4 +2,4 @@
 
 ./render_md.py --all
 
-gcloud app deploy --version=production --quiet app.yaml
+gcloud app deploy --project=regression-io --version=production --quiet app.yaml
