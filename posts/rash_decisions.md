@@ -68,7 +68,7 @@ After a minute or 2 looking at news headlines, Sam switches to his scanning app,
 
 "Oh! Ha, yeah, that's you, Hal. Nice. But no, nothing from the airport or the airline." Tabby stops for a second and lets out a sharp laugh. "Ha. Get this&hellip; Our flight is marked as _'Delayed'_." She looks up at Sam with an incredulous look on her face. "And practically all other flights from here are either delayed or cancelled."
 
-"Ok, that's weird, but it could be normal," Sam points out.
+"Ok, that's weird, but it could be normal for an emergency," Sam points out.
 
 "Right, but," Hal starts with a loud worried voice, which he quickly reduces to a whisper, "targeted extraction of four people from a hundred or so, last-chopper-out-of-Saigon-style, is definitely not."
 
@@ -91,3 +91,47 @@ Nobody can think of how to answer Karly's question for a bit.
 "Wonderful," Mauve says, as if its been decided, "Young man," she says to Ramón, "please go let everyone know they'll have a turn, and the good doctors will prioritize who gets on," and with that Mauve turns to fuss over Susan, clearly feeling her job has been done.
 
 With Karly's question still hanging awkwardly over the conversation, Sam points into the distance where two sets of emergency lights emerge from the dark. "Look," he says.
+
+Everyone turns to see. After staring and squinting a bit, it's clear there are three pairs of headlights.
+
+"Hmph," says Ramón, not impressed. He turns on his heel and starts using his Steward-voice with the crowd. "Everyone who can hear me, please gather around! Gather in, people, that's it. We're going to get some of the worst-off folks into the ambulance and back to the terminal. Please assist anyone who is having trouble walking or standing&hellip;"
+
+Hal looks between Tabby, Marcus, and Sam, trying to gauge their reactions. "Well," he says, "I'm not at all sure this is a good idea. I want to go home, not to a police station. I'm willing to hear what they have to say, but unless I'm under arrest&hellip;"
+
+"That sounds right," agrees Sam.
+
+"Look, guys, they're not coming out here specifically for us without some _very good_ reason. They don't even know our names," Marcus smirks at Hal, "not even 'Mr. Bailman' here. I'm guessing they need our help with something."
+
+"But, like you said, they don't know us, why would they want us? To help with what?" Tabby asks.
+
+"This might sound silly, but I was in New York on 9/11, and this feels a little like that. There was this time where no one was sure exactly what was going on, how bad it was. But we knew it was bad. I watched people put absolutely everything on hold and go&hellip;" Marcus trails off.
+
+"Jesus!" Sam says, "You think something like 9/11 is going on out there?"
+
+"Fucking _FEMA_," Hal says quietly.
+
+"Here we go," Tabby says, nodding toward the vehicles pulling up. There are two squad cars and a shuttle bus with "Dollar" written on the side. One uniformed officer gets out of each car, and the bus driver stays put. The added headlight beams change the position of all the shadows and make it feel like they are suddenly in a different place.
+
+The officers walk forward with that easy-but-careful stroll of police assessing a scene, coming straight toward the four while scanning all around. They stop at a conversational distance, one man beside and slightly behind the other. They don't say anything.
+
+Tabby breaks first. "Good evening, officers."
+
+They both nod, and the man in front says, "Evening. Glad to see so few people are hurt."
+
+Ramón comes walking briskly up and says, "Is that shuttle for us? We've got a lot of people who want to get out of here."
+
+"Go right ahead," the officer days, but he doesn't move.
+
+"Great," Ramón says and goes to talk to the bus driver.
+
+Sam clear his throat, but doesn't say anything.
+
+"So you want to tell us what's going on?" Hal asks.
+
+"You the four that dispatch mentioned?"
+
+"That's us," Marcus says.
+
+"Yeah, we can fill you in. Just step over here to the cars." Each of the four do their own idiosyncratic version of a deep breath and follow the cops over to the cars. The same officer starts speaking quietly, forcing them to form a tight circle so they can hear him.
+
+"There isn't very much information. But it seems like the rash is very wide spread. Deputy Kendrick is working to gather everyone who is not affected for special assignments. You're to take these two units," the officer gestures at the cars, "and get on I-40. Deputy Kendrick will get in touch over the radio with next steps."
