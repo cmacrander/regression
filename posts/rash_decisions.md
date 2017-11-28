@@ -46,9 +46,9 @@ He notices that most people _aren't_ on their devices. The ones that are are mil
 
 Ramón disappears behind the ambulance but quickly comes back. He's taken off his wet steward shirt and is wearing a reflective jacket with EMT logos on it. He walks over to the group while drying his hair in a towel.
 
-Sam looks up from this laptop and gives him a quizzical look. "You’re a steward, a jiu-jitsu ninja _and_ an EMT?"
+Sam looks up from this laptop and gives him a quizzical look. "You're a steward, a jiu-jitsu ninja _and_ an EMT?"
 
-Ramon chuckles a little. "It’s the only shirt I found." Sam returns to his laptop, and Ramón catches Carol's eye. "Excuse me, I'm still worried, what do we know about this rash? Does it look like it’s stress induced? Allergies? Could it be from the heat and smoke? Does it look like anything you’ve seen before?"
+Ramon chuckles a little. "It's the only shirt I found." Sam returns to his laptop, and Ramón catches Carol's eye. "Excuse me, I'm still worried, what do we know about this rash? Does it look like it's stress induced? Allergies? Could it be from the heat and smoke? Does it look like anything you've seen before?"
 
 "Sure," Carol says, sighing, "it could be any of that. People get rashes for all kinds of reasons and you usually never know why, they just go away. But all at once, on everyone? Beats me. I just make sure people are stable and call it in."
 
@@ -112,15 +112,23 @@ Hal looks between Tabby, Marcus, and Sam, trying to gauge their reactions. "Well
 
 "Here we go," Tabby says, nodding toward the vehicles pulling up. There are two squad cars and a shuttle bus with "Dollar" written on the side. One uniformed officer gets out of each car, and the bus driver stays put. The added headlight beams change the position of all the shadows and make it feel like they are suddenly in a different place.
 
+```character
+Sergeant William Dustice, ???
+
+Dark uniforms, full police gear.
+
+_Determined to Follow Orders_, _Arm of the Law_
+```
+
 The officers walk forward with that easy-but-careful stroll of police assessing a scene, coming straight toward the four while scanning all around. They stop at a conversational distance, one man beside and slightly behind the other. They don't say anything.
 
 Tabby breaks first. "Good evening, officers."
 
-They both nod, and the man in front says, "Evening. Glad to see so few people are hurt."
+They both nod, and the man in front, with three stripes on his sleeve, says, "Evening. Glad to see so few people are hurt."
 
 Ramón comes walking briskly up and says, "Is that shuttle for us? We've got a lot of people who want to get out of here."
 
-"Go right ahead," the officer days, but he doesn't move.
+"Go right ahead," the Sergeant days, but he doesn't move.
 
 "Great," Ramón says and goes to talk to the bus driver.
 
@@ -132,6 +140,83 @@ Sam clear his throat, but doesn't say anything.
 
 "That's us," Marcus says.
 
-"Yeah, we can fill you in. Just step over here to the cars." Each of the four do their own idiosyncratic version of a deep breath and follow the cops over to the cars. The same officer starts speaking quietly, forcing them to form a tight circle so they can hear him.
+"Yeah, we can fill you in. Just step over here to the cars." Each of the four do their own idiosyncratic version of a deep breath and follow the cops over to the cars. The same Sergeant starts speaking quietly, forcing them to form a tight circle so they can hear him.
 
-"There isn't very much information. But it seems like the rash is very wide spread. Deputy Kendrick is working to gather everyone who is not affected for special assignments. You're to take these two units," the officer gestures at the cars, "and get on I-40. Deputy Kendrick will get in touch over the radio with next steps."
+"There isn't very much information. But it seems like the rash is very wide spread. Deputy Kendrick is working to gather everyone who is not affected for special assignments. You're to take these two units," the Sergeant gestures at the cars, "and get on I-40. Deputy Kendrick will get in touch over the radio with next steps."
+
+Sam, who has put his tablet away and slung his duffel bag over his shoulder, says "Wait, you're saying WE get to drive the cop cars?? Now _that_ I'm ok with!"
+
+Tabby's eyes light up. "So what are _you_ going to do?" she asks the police officers.
+
+"We'll be assisting everyone here getting to the terminal."
+
+Sam turns to Karly and says, "I guess you'll be going with Ramón and the other passengers. Give me your number and we can get a drink when all this blows over?"
+
+"Sure."
+
+"Alright, stay safe. I'm gonna go drive in a cop car!" Sam grins.
+
+Karly heads off with Ramón towards the bus. Sam turns back to the others.
+
+"These officers might not actually know anything more. I'm gonna go talk to this Kendrick person over the radio—get right to the source." he says, as he starts walking towards the nearest squad car.
+
+Marcus puts out a hand and calmly but firmly interrupts Sam's swagger forward.
+
+Sam smiles as if he was never serious anyway. Marcus addresses both officers, frowning slightly. "We were led to believe you'd have more information about the bigger picture of what is going on—is this all you can tell us?"
+
+The Sergeant crosses his arms and doesn't speak at first. He takes a deep breath. "I get that you're concerned," he says. "I can tell you this is important." His arms stay crossed.
+
+Deadpan, Hal adds, "pretty please. With sugar on top. The fuck is going on?" This gets a glance from the Sergeant, but nothing else.
+
+Marcus takes a small step forward and offers his right hand as he introduces himself and flashes his credentials with his left. "Marcus Cain, FDNY. I understand that you might be light on information right now. We've all only just gotten off that plane still on fire behind me so, understandably, we're a bit on edge—more so with the added strangeness. Mind if we ask you a few questions? All we hope for is your honest appraisal. You look to have been on the job for a bit sergeant so let's start with what your gut is telling you. If need be, you can tell it to me and I can filter it to the rest, I filter well."
+
+> Marcus Create an Advantage: 1 Rapport + 3 = 4 (Great) _Success_, creates aspect for Sergeant, _One of the Brotherhood_ &#9744;
+
+The Sergeant's arms come down and he hooks his thumbs in his belt. "No, no. No need for a filter. Everyone's got at right to the basics, which is, number one, we absolutely cannot make the mistake of letting our imaginations get carried away here. Number two, this isn't anything anyone has seen before. Not that we can't handle it, mind you. But what we need right now is for certain folks such as yourselves who are handling everything well to lend their assistance. The Deputy is calling the shots for the local districts, at least for now, and I'm in direct command of forces here at the airport."
+
+There's a brief pause while everyone takes this in.
+
+"In any case," the Sergeant continues, "I need to see ID and and get numbers from each of you.
+
+Marcus hands his over, which he already had out, without comment. The Sergeant takes it and looks expectantly at the others.
+
+Marcus turns first to Sam and then the others. "Come on, it sounds like the quicker we cooperate the quicker we will figure out how we all get home." Turning back to the officer, "it's highly irregular to be asking for civilian help—your call or FEMA's?"
+
+"Correct, sir, it is. Thank you," he says as he hands back Marcus' ID. "And I'm sure you'd agree that some of the things you've seen tonight are irregular. Originally the Deputy's call but she consulted me and my CO and we're all in agreement."
+
+"Whatever lets me drive around in a cop car!" Sam grins as he pulls out his passport with the boarding pass still in it. "I guess this is useless now..."
+He crumples up the boarding pass, stuffs it in his pocket and hands his passport over to the sergeant.
+
+Tabby fumbles around in her bag and pulls out a blue plastic Hello Kitty wallet. She removes her ID and hands it to the officer with a self-aware smile. "I think it's safe to say that everything today is a new experience for all of us. Not that we can't handle it," she tacks on with a nod and wink.
+
+Hal nods politely and hands over his license as well, all the while intently studying both officers.
+
+> Because Sam is a _Security Systems Neutralizer For Hire_ it makes sense the police recognize his name. Damn his luck. +1 fate point.
+
+The Sergeant, studying Sam's passport, smiles with just the side of his mouth and says, "Dunbar. Hey Phil, look at this," as he passes it back to his partner.
+
+The partner says, taking it, "The B&E hacker? This guy?"
+
+"The very same. So, um... Yeah, Phil, let's not provide Mr. Dunbar with access to the laptops."
+
+"I can put 'em in the ambulance."
+
+"Yeah." The Sergeant finishes writing down Sam's information and waves at Phil to pass back the ID. "Thank you, Mr. Dunbar. Hope to see you again some day under better circumstances." Phil, shaking his head, goes and sits in the first squad car and starts detaching the swivel-mounted laptop.
+
+Tabby's eyebrows raise as she looks at Sam. "You're a Hacker? Like in that 90s movie my older cousin used to always watch when I was little? What's your handle?"
+
+"Not sure what hacker makes you think of, but I'm an expert in security systems. Sure, I'm in some online groups that attract people with&hellip;"
+
+As Sam is talking, the Sergeant starts to move—calmly enough not to make anyone jump but quickly enough to give Sam little time to react. He raises his arm with some kind of gadget in his hand.
+
+> Sergeant Attack: 2 Fight - 1 + 2 _Arm of the Law_ = 3 (Good), -1 fate point
+7:43
+> Sam Defend: 0 Fight - 2 = -2 (Terrible) _Fails_
+
+"&hellip;less than ideal motives, but that doesn't make me a crimin-AAAAOOOW."
+
+Sam flinches, just a little, but otherwise is oblivious to what's happening. There's a click-snap sound, and Sam feels a sting in his arm. The Sergeant truly smiles for the first time. "Heh. Be seeing you, Mr. Dunbar."
+
+"Hey! What the hell was that?" Sam cries out, putting his hand up to his shoulder to feel this thing.
+
+"You're GPS-enabled now!" laughs Officer Phil, as he walks past them with the laptops in his arms.
