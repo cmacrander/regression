@@ -7,12 +7,12 @@ import optparse
 import re
 
 
-# CURRENT_POST = "Rash Decisions"
-CURRENT_POST = "The Runway"
+CURRENT_POST = "Rash Decisions"
 
 ARCHIVED_POSTS = (
     "Backstory",
     "The Plane",
+    "The Runway",
 )
 
 
@@ -29,7 +29,7 @@ def read_file(file_path):
     # Read input file in UTF8
     with codecs.open(file_path, encoding='utf-8', mode='r') as fh:
         return fh.read()
-        
+
 
 def write_file(file_path, content_str):
     # Write to file as UTF8.
