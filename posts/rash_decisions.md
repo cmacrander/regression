@@ -265,6 +265,38 @@ Tabby grins and shrugs.
 
 Hal turns a dial and directs the handset to the car's loudspeaker. "Point the way, blokes," his voice booms.
 
-Marcus pulls away from the crowd carefully, and Hal follows. It takes the party about 20 minutes to figure out how to actually get off the system of runway and to the right gate through the security fence, but when they do they're waved through. From there signs to I-40 are easy to follow.
+Marcus pulls away from the crowd carefully, and Hal follows. It takes the party about 20 minutes to figure out how to actually get off the system of runways and to the right gate through the security fence, but when they do they're waved through. From there signs to I-40 are easy to follow.
 
-As promised, Depty Kendrick starts awkwardly hailing them.
+As promised, Depty Kendrick starts awkwardly hailing them. Sam is the first to get a word in edgewise and let her know that they're all listening.
+
+"Okay, great. Something going right. Right. Okay. Okay, here, got it. Listen up. Our go-to for biological events is Dr. Kristine Griffin, at NIEHS, in the Research Triangle. Somebody take notes. 111 T. W. Alexander Drive, Durham, Neurotoxicology lab. She'll be there, at least she better be. She's got instructions in case of an emergency. Acquire, extract, return. Out."
+
+Marcus says to Sam, "Ask her what we should do if the doctor doesn't want to come with us."
+
+"What if she won't come with us, umm&hellip;"
+
+"Over," Marcus supplies.
+
+"Over."
+
+"That's what 'acquire' means. You all need to be self-sufficient in this, that's the whole idea. I've got to get off."
+
+"Okay, roger?" Sam says, unsure.
+
+Marcus nods and adds, "Wilco."
+
+"Wilco."
+
+"Over and out."
+
+"Over and out." Sam hangs up the handset. "So picky, this radio talk."
+
+"And computer language or whatever isn't?"
+
+"Stop being right so much. It's annoying."
+
+
+
+
+
+
