@@ -10,11 +10,11 @@ import re
 CURRENT_POST = "WalMart"
 
 ARCHIVED_POSTS = (
-    "I-40",
     "Backstory",
     "The Plane",
     "The Runway",
     "Rash Decisions",
+    "I-40",
 )
 
 
