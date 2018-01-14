@@ -7,7 +7,7 @@ import optparse
 import re
 
 
-CURRENT_POST = "WalMart"
+CURRENT_POST = "NIEHS"
 
 ARCHIVED_POSTS = (
     "Backstory",
@@ -15,6 +15,7 @@ ARCHIVED_POSTS = (
     "The Runway",
     "Rash Decisions",
     "I-40",
+    "WalMart",
 )
 
 

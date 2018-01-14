@@ -31,15 +31,6 @@ invocations instead of one.
 
 ## Live Session
 
-Ok, I actually don't want to do this. But that's because
-
-1. The players are being sticks in the mud. Partially my fault.
-2. I hate everything lately, including this.
-
-What do we need? _Conflict_.
-
-Might as well bring out the big guns. There are two ideas. To the bio lab to figure out the Blur. Or to the Emerald City. Both while the world regresses.
-
 Plane crash was about 8:30. Hour later, FEMA is having some small initial response.
 
 Systems become extremely brittle to attack by the non-blurred. Some state actor with a live hacker could launch a pre-packaged massive DDOS and take down the Internet. With so few people at hand to respond, systems go down.
@@ -56,41 +47,9 @@ Fine. What's the _most interesting_ way for them to go down? Like Stephenson sai
 
 What's in the car? Not much. Radio.
 
-So, they get in. They drive out to I-40. Don't let them stew, because **players are lame** (gotta keep that snark under control). Call in with FEMA gal. She says,
-
-"Our go-to for biological events is Dr. Kristine Griffin, at NIEHS, in the Research Triangle. Somebody taking notes? 111 T. W. Alexander Drive, Durham, Neurotoxicology lab. Will she be there? She better be. She's got instructions in case of an emergency. Acquire, extract, return. Out."
-
 So they head off. Or maybe not. Let's assume they do. What gets in their way?
 
 * Mr. Rayban with two fate points (one refresh, one concession)
-* HellSons, spoling for a fight and some cop cars.
-  - Not murderous, so coming in with fists and knives.
-  - At least one is packing, if it gets that far.
-  - Show up as soon as convenient. Probably at a gas station.
-
-```character
-HellSons
-
-Semi-organized hoodlums. They've got police CBs, they've heard how weird shit is. Out to make trouble. They see the party aren't cops, see a chance to score some cop cars.
-
-_Spoiling For A Fight_
-```
-
-```character
-Gang Leader
-
-2 fight, 2 provoke, 1 physique, 1 will, 2 atheltics
-Physical: ☐☐☐
-Mental: ☐☐☐
-```
-
-```character
-Gang Follower x4
-
-1 Fight, 1 physique, 1 athletics
-Physical: ☐☐☐
-Mental: ☐☐
-```
 
 They get to the lab. Any research they try to do on the place via cell starts to fail once they're in the area.
 
