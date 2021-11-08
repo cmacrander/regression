@@ -42,14 +42,10 @@ Fine. What's the _most interesting_ way for them to go down? Like Stephenson sai
   - talk shows
   - DJ'ed radio stations
 * Cell
-* Partial Internet
+* Partial Internet <-- this is the next big regression
 * Power
 
-What's in the car? Not much. Radio.
-
-So they head off. Or maybe not. Let's assume they do. What gets in their way?
-
-* Mr. Rayban with two fate points (one refresh, one concession)
+### Dr. Griffin and the Lab
 
 They get to the lab. Any research they try to do on the place via cell starts to fail once they're in the area.
 
@@ -61,9 +57,9 @@ It's quiet. Lights are low. There are science-y presentation posters and signs f
 
 There's a light on near the Neurotoxicoloy Lab. Dr. Griffin is in there, talking with someone (it's the Wizard, but that's secret). She's desparately trying to understand what's happening, she's panicked. (She's got tests running to see if her virus is in various samples. It is, in mutated form, but she doesn't know that yet, but she does suspect it.)
 
-The players can interrogate her. She'll resist. She doesn't want to be the Horsewoman of the Apocalypse. She doesn't want to go anywhere because she's got tests running.
+The players can interrogate her. She'll resist. She doesn't want to be the Horsewoman of the Apocalypse, so she won't to explain what she's doing. She doesn't want to go anywhere because she's got tests running.
 
-```
+```character
 Dr. Kristine Griffin
 
 _Oh My God What Have I Done_, _I Can Science My Way Out Of This_
@@ -77,3 +73,57 @@ Players will need to decide what to do about removing her from her work. If pres
 Ultimately the virus _can_ be mitigated. The Oracle created a pretty effective little monster, but it's not perfect, because it had to pass Dr. Griffin's initial inspection. If they let her stay and work for ~12 hours, she can apply a known but obscure/prototype anti-viral. Effects are random, but potentially reverse effects if applied quickly. Much too late to innoculate everyone, but enough to gain the support of critical Blurred NPCs.
 
 Internet goes down at the Lab at the most dramatic potential moment.
+
+### The Special Ops Team
+
+The Players aren't the only tool in FEMA's kit, and FEMA isn't the only organization operating and looking for Dr. Griffin. Some obscure national defense military outfit has responded quite quickly. They're operating on the assumption that this is a coordinated attack by a terrorist organization for foreign power, likely biological. They've got just-unsealed orders to secure certain strains kept on ice at the lab and have a squad in the field.
+
+```character
+The Motley Crew
+
+_The Enemy Could Be Anywhere_, _Off Balance_
+
+Four AFSOC guys from 21st Special Tactics out of Pope Field NC https://en.wikipedia.org/wiki/21st_Special_Tactics_Squadron. An Airman (Don-Sun Ro), Airman First Class (Palgun "Sooty" Sood), Senior Airman (Gordon "Carp" Carpenter), and First Lieutenant (Rizalino "Riz" Mercado). The most junior member, Ro, is unblurred, and co-leading the squad, which results in some awkwardness.
+
+3 Will, 4 Physique, 4 Shoot, 2 Stealth
+Mental: ☐☐☐
+Physical: ☐☐☐
+```
+
+Riz has an extra
+
+```extra
+Riot Rifle
+
+Can fire rubber bullets, tazing darts, and mace rounds.
+
+Cost: -1 to physique rolls (it's heavy)
+
+- Overcome: Use Shoot and tazing darts to physically overcome a person.
+- Create an Advantage: Use Shoot and the mace rounds to create a setting aspect that debilitates people in that zone for two rounds.
+- Attack: Use Shoot and rubber bullets to cause physical stress and consequences, but not severe consquences or being taken out.
+- Defend: Use Shoot and rubber bullets to employ supressing fire, assuming the enemy doesn't know the non-lethal nature of the rifle.
+```
+
+Their general approach is to neutralize anyone they come in contact with, by knocking them out with non-lethals, locking them in a room, hitting them in the head, etc. and moving on to secure their target.
+
+If they encounter the party, especially if the party is cohesive, they'll try negotiation first, but they won't have much patience.
+
+If they know that Mr. Rayban is about, with enough persuasion, they may hand over the Riot Rifle.
+
+### Mr. Rayban
+
+Mr. Rayban has two fate points (one refresh, one concession). He can't contact his handlers so he assumes his assignment is still to off Sam. He's also super pissed he didn't succeed before. Is _is_ blurred, but it's not slowing him down much.
+
+If Mr. Rayban comes into contact with the Motley Crew, he may avoid them or kill them as the opportunities arise or as they complicate his mission.
+
+```character
+Mr. Rayban
+
+_Assassin for the ETA Council_, _Reputation on the Line_
+
+3 Fight, 2 Physique, 4 Stealth, 2 Shoot, 3 Will
+
+Physical Stress:  ☑☐
+Mental: ☑☐☐
+```
